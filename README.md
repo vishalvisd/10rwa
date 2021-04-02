@@ -2,5 +2,4 @@
 Python applications
 cZXcxz
 sdf
-zxcsafsdf
-sdfsafdsaf
+fgsdf
